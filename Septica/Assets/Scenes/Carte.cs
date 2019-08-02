@@ -8,6 +8,8 @@ public class Carte : MonoBehaviour
     void Start()
     {
         
+        //comentariu modificare
+
     }
 
     // Update is called once per frame
