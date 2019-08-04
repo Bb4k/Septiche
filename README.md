@@ -1,4 +1,0 @@
-# Septiche
-
-//Haidee
-//HAA
